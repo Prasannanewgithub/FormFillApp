@@ -13,10 +13,6 @@
     <input type="text" placeholder="Enter aadhar" name="aadhar" id="aadhar" required>
     <br>
 
-    <label for="mother"><b>Mother Name</b></label>
-    <input type="text" placeholder="Mother Name" name="mother" id="mother" required>
-    <br>
-
     <label for="brother"><b>Brother Name</b></label>
     <input type="text" placeholder="Brother Name" name="brother" id="brother" required>
     <br>
