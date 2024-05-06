@@ -22,9 +22,12 @@
     <br>
 
     <label for="Adhar"><b>Adhar Name</b></label>
-    <input type="text" placeholder="Adhar Name" name="Adhar" id="Adhar" required>
+    <input type="text" placeholder="Adhar number" name="Adhar" id="Adhar" required>
     <br>
 
+    <label for="Pan"><b>PAN Number</b></label>
+    <input type="text" placeholder="PAN number" name="PAN" id="PAN" required>
+    <br>
 
 
     <label for="email"><b>Email</b></label>
