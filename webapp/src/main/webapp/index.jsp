@@ -21,6 +21,10 @@
     <input type="text" placeholder="Brother Name" name="brother" id="brother" required>
     <br>
 
+    <label for="sister"><b>Sister Name</b></label>
+    <input type="text" placeholder="Sister Name" name="sister" id="sister" required>
+    <br>
+
     <label for="Adhar"><b>Adhar Name</b></label>
     <input type="text" placeholder="Adhar number" name="Adhar" id="Adhar" required>
     <br>
