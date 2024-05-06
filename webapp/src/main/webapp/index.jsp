@@ -29,10 +29,6 @@
     <input type="text" placeholder="Adhar number" name="Adhar" id="Adhar" required>
     <br>
 
-    <label for="Pan"><b>PAN Number</b></label>
-    <input type="text" placeholder="PAN number" name="PAN" id="PAN" required>
-    <br>
-
 
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
