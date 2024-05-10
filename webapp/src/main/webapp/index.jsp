@@ -25,11 +25,6 @@
     <input type="text" placeholder="Sister Name" name="sister" id="sister" required>
     <br>
 
-    <label for="Adhar"><b>Adhar Name</b></label>
-    <input type="text" placeholder="Adhar number" name="Adhar" id="Adhar" required>
-    <br>
-
-
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
