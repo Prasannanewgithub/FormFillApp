@@ -17,6 +17,10 @@
     <input type="text" placeholder="Enter Fathername" name="father" id="father" required>
     <br>
 
+    <label for="Mother"><b>Mother Name</b></label>
+    <input type="text" placeholder="Enter Mothername" name="mother" id="mother" required>
+    <br>
+
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
